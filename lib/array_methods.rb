@@ -8,17 +8,17 @@ array.sort
 end
 
 def using_reverse(array)
-array.using_reverse(array)
+array.using_reverse
 end
 
 def using_first(array)
-array.using_first(array)
+array.using_first
 end
 
 def using_last(array)
-array.last(array)
+array.last
 end
 
 def using_size(array)
-array_using.size(array)
+array_using.size
 end
